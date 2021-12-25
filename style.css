@@ -512,8 +512,7 @@ div[role="progressbar"]::before {
 
 @media screen and (max-width: 567px) {
   .navbar {
-    background: rgba(39, 46, 72, 0.5);
-
+       background: #272e48;
   }
 }
 
