@@ -518,7 +518,7 @@ div[role="progressbar"]::before {
 
 /* Scroll Bar Styles  */
 ::-webkit-scrollbar {
-  width: 15px;
+  width: 12px;
   background-color: transparent;
 }
 ::-webkit-scrollbar-thumb {
