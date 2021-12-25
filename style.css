@@ -508,3 +508,11 @@ div[role="progressbar"]::before {
     text-align: center;
   }
 }
+
+
+@media screen and (max-width: 567px) {
+  .navbar {
+    background: #272e48;
+  }
+}
+
