@@ -1,0 +1,14 @@
+:root {
+  --head-font: montserrat;
+  /* font-family: "Dancing Script", cursive; */
+}
+* {
+  scroll-behavior: smooth !important;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.8;
+  color: #fff;
+  background: #000;
+  overflow-x: hidden;
+}
